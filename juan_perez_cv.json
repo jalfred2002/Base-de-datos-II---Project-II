@@ -1,0 +1,55 @@
+{
+    "Resumen": "Ingeniero de software con 5 años de experiencia...",
+    "Datos Personales": {
+        "Nombre": "Juan Pérez",
+        "Dirección": "Calle 123, Ciudad, País",
+        "Teléfonos": ["+58 412 3456789", "+58 286 9876543"],
+        "Email": "juan.perez@example.com",
+        "Redes Sociales": ["https://www.linkedin.com/in/juanperez", "https://github.com/juanperez"]
+    },
+    "Educación": {
+        "Enseñanza Básica": {
+            "Institución": "Colegio XYZ",
+            "Años": "2000 - 2012"
+        },
+        "Enseñanza Media": {
+            "Institución": "Liceo ABC",
+            "Años": "2012 - 2015"
+        },
+        "Educación Universitaria": {
+            "Institución": "Universidad Nacional Experimental de Guayana",
+            "Años": "2015 - 2020"
+        },
+        "Otros": [
+            {
+                "Curso": "Desarrollo web",
+                "Plataforma": "Udemy",
+                "Año": "2021"
+            }
+        ]
+    },
+    "Laboral": [
+        {
+            "Puesto": "Pasantía",
+            "Empresa": "Empresa DEF",
+            "Años": "2020 - 2021"
+        },
+        {
+            "Puesto": "Desarrollador",
+            "Empresa": "Empresa GHI",
+            "Años": "2021 - Presente"
+        },
+        {
+            "Puesto": "Freelancer",
+            "Años": "2021 - Presente"
+        }
+    ],
+    "Conocimientos Técnicos": {
+        "OS": ["Windows", "Linux"],
+        "Lenguaje de Desarrollo": ["JavaScript", "Python"],
+        "Bases de Datos": ["MongoDB", "MySQL"],
+        "Mobiles (app)": ["React Native"],
+        "Otros Softwares": ["Git", "Docker"]
+    },
+    "Intereses Personales": ["Deporte", "Música", "Animales", "Entretenimiento"]
+}
