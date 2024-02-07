@@ -1,0 +1,55 @@
+{
+    "Resumen": "Desarrollador de software con 4 años de experiencia...",
+    "Datos Personales": {
+        "Nombre": "Carlos Rodríguez",
+        "Dirección": "Avenida 456, Ciudad, País",
+        "Teléfonos": ["+58 414 9876543", "+58 286 1234567"],
+        "Email": "carlos.rodriguez@example.com",
+        "Redes Sociales": ["https://www.linkedin.com/in/carlosrodriguez", "https://github.com/carlosrodriguez"]
+    },
+    "Educación": {
+        "Enseñanza Básica": {
+            "Institución": "Colegio ABC",
+            "Años": "2001 - 2013"
+        },
+        "Enseñanza Media": {
+            "Institución": "Liceo XYZ",
+            "Años": "2013 - 2016"
+        },
+        "Educación Universitaria": {
+            "Institución": "Universidad Central de Venezuela",
+            "Años": "2016 - 2021"
+        },
+        "Otros": [
+            {
+                "Curso": "Desarrollo de aplicaciones móviles",
+                "Plataforma": "Coursera",
+                "Año": "2022"
+            }
+        ]
+    },
+    "Laboral": [
+        {
+            "Puesto": "Pasantía",
+            "Empresa": "Empresa JKL",
+            "Años": "2021 - 2022"
+        },
+        {
+            "Puesto": "Desarrollador",
+            "Empresa": "Empresa MNO",
+            "Años": "2022 - Presente"
+        },
+        {
+            "Puesto": "Freelancer",
+            "Años": "2022 - Presente"
+        }
+    ],
+    "Conocimientos Técnicos": {
+        "OS": ["Windows", "Linux"],
+        "Lenguaje de Desarrollo": ["Java", "Python"],
+        "Bases de Datos": ["PostgreSQL", "MySQL"],
+        "Mobiles (app)": ["Flutter"],
+        "Otros Softwares": ["Git", "Docker"]
+    },
+    "Intereses Personales": ["Lectura", "Música", "Viajes", "Cine"]
+}

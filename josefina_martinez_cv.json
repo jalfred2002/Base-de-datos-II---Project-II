@@ -1,0 +1,55 @@
+{
+    "Resumen": "Ingeniera de software con 7 años de experiencia...",
+    "Datos Personales": {
+        "Nombre": "Josefina Martínez",
+        "Dirección": "Calle 852, Ciudad, País",
+        "Teléfonos": ["+58 412 6549872", "+58 286 1236548"],
+        "Email": "josefina.martinez@example.com",
+        "Redes Sociales": ["https://www.linkedin.com/in/josefinamartinez", "https://github.com/josefinamartinez"]
+    },
+    "Educación": {
+        "Enseñanza Básica": {
+            "Institución": "Colegio DEF",
+            "Años": "2002 - 2014"
+        },
+        "Enseñanza Media": {
+            "Institución": "Liceo GHI",
+            "Años": "2014 - 2017"
+        },
+        "Educación Universitaria": {
+            "Institución": "Universidad Simón Bolívar",
+            "Años": "2017 - 2022"
+        },
+        "Otros": [
+            {
+                "Curso": "Desarrollo web",
+                "Plataforma": "EdX",
+                "Año": "2023"
+            }
+        ]
+    },
+    "Laboral": [
+        {
+            "Puesto": "Pasantía",
+            "Empresa": "Empresa PQR",
+            "Años": "2022 - 2023"
+        },
+        {
+            "Puesto": "Ingeniera de software",
+            "Empresa": "Empresa STU",
+            "Años": "2023 - Presente"
+        },
+        {
+            "Puesto": "Freelancer",
+            "Años": "2023 - Presente"
+        }
+    ],
+    "Conocimientos Técnicos": {
+        "OS": ["Windows", "Linux"],
+        "Lenguaje de Desarrollo": ["Python", "Java"],
+        "Bases de Datos": ["Hadoop", "MySQL"],
+        "Mobiles (app)": ["Flutter"],
+        "Otros Softwares": ["Git", "Docker"]
+    },
+    "Intereses Personales": ["Lectura", "Música", "Viajes", "Cine"]
+}

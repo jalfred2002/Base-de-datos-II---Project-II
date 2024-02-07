@@ -1,0 +1,55 @@
+{
+    "Resumen": "Analista de sistemas con 5 años de experiencia...",
+    "Datos Personales": {
+        "Nombre": "Rafael Gómez",
+        "Dirección": "Boulevard 753, Ciudad, País",
+        "Teléfonos": ["+58 416 3219874", "+58 286 7654319"],
+        "Email": "rafael.gomez@example.com",
+        "Redes Sociales": ["https://www.linkedin.com/in/rafaelgomez", "https://github.com/rafaelgomez"]
+    },
+    "Educación": {
+        "Enseñanza Básica": {
+            "Institución": "Colegio XYZ",
+            "Años": "2001 - 2013"
+        },
+        "Enseñanza Media": {
+            "Institución": "Liceo ABC",
+            "Años": "2013 - 2016"
+        },
+        "Educación Universitaria": {
+            "Institución": "Universidad Central de Venezuela",
+            "Años": "2016 - 2021"
+        },
+        "Otros": [
+            {
+                "Curso": "Análisis de datos",
+                "Plataforma": "Coursera",
+                "Año": "2022"
+            }
+        ]
+    },
+    "Laboral": [
+        {
+            "Puesto": "Pasantía",
+            "Empresa": "Empresa JKL",
+            "Años": "2021 - 2022"
+        },
+        {
+            "Puesto": "Analista de sistemas",
+            "Empresa": "Empresa MNO",
+            "Años": "2022 - Presente"
+        },
+        {
+            "Puesto": "Freelancer",
+            "Años": "2022 - Presente"
+        }
+    ],
+    "Conocimientos Técnicos": {
+        "OS": ["Windows", "Linux"],
+        "Lenguaje de Desarrollo": ["Python", "R"],
+        "Bases de Datos": ["PostgreSQL", "MySQL"],
+        "Mobiles (app)": ["Flutter"],
+        "Otros Softwares": ["Git", "Docker"]
+    },
+    "Intereses Personales": ["Lectura", "Música", "Viajes", "Cine"]
+}

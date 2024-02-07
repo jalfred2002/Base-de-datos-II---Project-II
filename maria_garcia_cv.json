@@ -1,0 +1,55 @@
+{
+    "Resumen": "Desarrolladora web con 2 años de experiencia...",
+    "Datos Personales": {
+        "Nombre": "María García",
+        "Dirección": "Avenida 654, Ciudad, País",
+        "Teléfonos": ["+58 414 3219876", "+58 286 7654321"],
+        "Email": "maria.garcia@example.com",
+        "Redes Sociales": ["https://www.linkedin.com/in/mariagarcia", "https://github.com/mariagarcia"]
+    },
+    "Educación": {
+        "Enseñanza Básica": {
+            "Institución": "Colegio DEF",
+            "Años": "2002 - 2014"
+        },
+        "Enseñanza Media": {
+            "Institución": "Liceo GHI",
+            "Años": "2014 - 2017"
+        },
+        "Educación Universitaria": {
+            "Institución": "Universidad Simón Bolívar",
+            "Años": "2017 - 2022"
+        },
+        "Otros": [
+            {
+                "Curso": "Desarrollo web",
+                "Plataforma": "EdX",
+                "Año": "2023"
+            }
+        ]
+    },
+    "Laboral": [
+        {
+            "Puesto": "Pasantía",
+            "Empresa": "Empresa PQR",
+            "Años": "2022 - 2023"
+        },
+        {
+            "Puesto": "Desarrolladora web",
+            "Empresa": "Empresa STU",
+            "Años": "2023 - Presente"
+        },
+        {
+            "Puesto": "Freelancer",
+            "Años": "2023 - Presente"
+        }
+    ],
+    "Conocimientos Técnicos": {
+        "OS": ["Windows", "MacOS"],
+        "Lenguaje de Desarrollo": ["HTML", "CSS", "JavaScript"],
+        "Bases de Datos": ["SQLite", "MySQL"],
+        "Mobiles (app)": ["React Native"],
+        "Otros Softwares": ["Git", "Docker"]
+    },
+    "Intereses Personales": ["Cocina", "Música", "Jardinería", "Fotografía"]
+}

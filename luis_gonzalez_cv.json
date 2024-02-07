@@ -1,0 +1,55 @@
+{
+    "Resumen": "Ingeniero de sistemas con 6 años de experiencia...",
+    "Datos Personales": {
+        "Nombre": "Luis González",
+        "Dirección": "Calle 321, Ciudad, País",
+        "Teléfonos": ["+58 412 7654321", "+58 286 1239876"],
+        "Email": "luis.gonzalez@example.com",
+        "Redes Sociales": ["https://www.linkedin.com/in/luisgonzalez", "https://github.com/luisgonzalez"]
+    },
+    "Educación": {
+        "Enseñanza Básica": {
+            "Institución": "Colegio DEF",
+            "Años": "2002 - 2014"
+        },
+        "Enseñanza Media": {
+            "Institución": "Liceo GHI",
+            "Años": "2014 - 2017"
+        },
+        "Educación Universitaria": {
+            "Institución": "Universidad Simón Bolívar",
+            "Años": "2017 - 2022"
+        },
+        "Otros": [
+            {
+                "Curso": "Análisis de datos",
+                "Plataforma": "EdX",
+                "Año": "2023"
+            }
+        ]
+    },
+    "Laboral": [
+        {
+            "Puesto": "Pasantía",
+            "Empresa": "Empresa PQR",
+            "Años": "2022 - 2023"
+        },
+        {
+            "Puesto": "Analista",
+            "Empresa": "Empresa STU",
+            "Años": "2023 - Presente"
+        },
+        {
+            "Puesto": "Freelancer",
+            "Años": "2023 - Presente"
+        }
+    ],
+    "Conocimientos Técnicos": {
+        "OS": ["Windows", "MacOS"],
+        "Lenguaje de Desarrollo": ["Python", "R"],
+        "Bases de Datos": ["SQLite", "MySQL"],
+        "Mobiles (app)": ["Swift"],
+        "Otros Softwares": ["Git", "Docker"]
+    },
+    "Intereses Personales": ["Cocina", "Música", "Jardinería", "Fotografía"]
+}
