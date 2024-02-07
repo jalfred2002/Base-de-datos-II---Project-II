@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "8e42c1e2-efeb-4f34-97d3-524fbf9f0289",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1707249535976"
+        }
+      },
+      "favorite": {
+        "name": "base de datos 2",
+        "color": "color7"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://192.168.1.12:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
