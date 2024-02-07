@@ -1,0 +1,55 @@
+{
+    "Resumen": "Desarrolladora de aplicaciones móviles con 4 años de experiencia...",
+    "Datos Personales": {
+        "Nombre": "Carmen Sánchez",
+        "Dirección": "Boulevard 753, Ciudad, País",
+        "Teléfonos": ["+58 416 3219874", "+58 286 7654319"],
+        "Email": "carmen.sanchez@example.com",
+        "Redes Sociales": ["https://www.linkedin.com/in/carmensanchez", "https://github.com/carmensanchez"]
+    },
+    "Educación": {
+        "Enseñanza Básica": {
+            "Institución": "Colegio XYZ",
+            "Años": "2001 - 2013"
+        },
+        "Enseñanza Media": {
+            "Institución": "Liceo ABC",
+            "Años": "2013 - 2016"
+        },
+        "Educación Universitaria": {
+            "Institución": "Universidad Central de Venezuela",
+            "Años": "2016 - 2021"
+        },
+        "Otros": [
+            {
+                "Curso": "Desarrollo de aplicaciones móviles",
+                "Plataforma": "Coursera",
+                "Año": "2022"
+            }
+        ]
+    },
+    "Laboral": [
+        {
+            "Puesto": "Pasantía",
+            "Empresa": "Empresa JKL",
+            "Años": "2021 - 2022"
+        },
+        {
+            "Puesto": "Desarrolladora de aplicaciones móviles",
+            "Empresa": "Empresa MNO",
+            "Años": "2022 - Presente"
+        },
+        {
+            "Puesto": "Freelancer",
+            "Años": "2022 - Presente"
+        }
+    ],
+    "Conocimientos Técnicos": {
+        "OS": ["Windows", "MacOS"],
+        "Lenguaje de Desarrollo": ["Swift", "Kotlin"],
+        "Bases de Datos": ["SQLite", "MySQL"],
+        "Mobiles (app)": ["React Native"],
+        "Otros Softwares": ["Git", "Docker"]
+    },
+    "Intereses Personales": ["Cocina", "Música", "Jardinería", "Fotografía"]
+}

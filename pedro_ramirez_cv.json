@@ -1,0 +1,55 @@
+{
+    "Resumen": "Ingeniero de datos con 3 años de experiencia...",
+    "Datos Personales": {
+        "Nombre": "Pedro Ramírez",
+        "Dirección": "Calle 159, Ciudad, País",
+        "Teléfonos": ["+58 412 6543219", "+58 286 9871236"],
+        "Email": "pedro.ramirez@example.com",
+        "Redes Sociales": ["https://www.linkedin.com/in/pedroramirez", "https://github.com/pedroramirez"]
+    },
+    "Educación": {
+        "Enseñanza Básica": {
+            "Institución": "Colegio DEF",
+            "Años": "2002 - 2014"
+        },
+        "Enseñanza Media": {
+            "Institución": "Liceo GHI",
+            "Años": "2014 - 2017"
+        },
+        "Educación Universitaria": {
+            "Institución": "Universidad Simón Bolívar",
+            "Años": "2017 - 2022"
+        },
+        "Otros": [
+            {
+                "Curso": "Big Data",
+                "Plataforma": "EdX",
+                "Año": "2023"
+            }
+        ]
+    },
+    "Laboral": [
+        {
+            "Puesto": "Pasantía",
+            "Empresa": "Empresa PQR",
+            "Años": "2022 - 2023"
+        },
+        {
+            "Puesto": "Ingeniero de datos",
+            "Empresa": "Empresa STU",
+            "Años": "2023 - Presente"
+        },
+        {
+            "Puesto": "Freelancer",
+            "Años": "2023 - Presente"
+        }
+    ],
+    "Conocimientos Técnicos": {
+        "OS": ["Windows", "Linux"],
+        "Lenguaje de Desarrollo": ["Python", "Scala"],
+        "Bases de Datos": ["Hadoop", "MySQL"],
+        "Mobiles (app)": ["Flutter"],
+        "Otros Softwares": ["Git", "Docker"]
+    },
+    "Intereses Personales": ["Lectura", "Música", "Viajes", "Cine"]
+}
